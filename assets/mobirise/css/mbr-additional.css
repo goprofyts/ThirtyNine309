@@ -11,5 +11,20 @@
   color: #ffffff;
 }
 #header4-4u H1 {
-  color: #000000;
+  color: #e25041;
+}
+#header3-4w H3 {
+  text-align: center;
+}
+#ext_menu-4t .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-4t .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-4t .mbr-navbar__hamburger {
+  color: #ffffff;
 }
