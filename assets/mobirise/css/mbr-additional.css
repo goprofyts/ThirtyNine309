@@ -13,18 +13,23 @@
 #header4-4u H1 {
   color: #e25041;
 }
-#header3-4w H3 {
+#header3-4t H3 {
   text-align: center;
 }
-#ext_menu-4t .mbr-brand__name {
-  font-size: 16px;
+#header3-4t P {
+  text-align: center;
 }
-#ext_menu-4t.mbr-navbar--stuck .mbr-navbar__section {
-  background: #efefef;
+#content5-4v .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
 }
-#ext_menu-4t .mbr-navbar__section {
-  background: #efefef;
+#content5-4v .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
 }
-#ext_menu-4t .mbr-navbar__hamburger {
-  color: #ffffff;
+#content5-4v .mbr-article {
+  color: #fff;
+}
+#content4-4w P {
+  text-align: center;
 }
