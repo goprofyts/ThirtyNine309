@@ -854,7 +854,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Payee Details",
-          "text": "<p>Payment Threshold: $100</p><p>Payment Method: PayPal</p><p>Payee Emai:&nbsp;</p><p><br></p><p><i>*You get paid on the 15th of every month for the previous month earnings. If earnings did not reach the threshold the balance will be added to the next month.</i></p>",
+          "text": "<p>Payment Threshold: $100</p><p>Payment Method: PayPal</p><p>Payee Email:&nbsp;</p><p><br></p><p><i>*You get paid on the 15th of every month for the previous month earnings. If earnings did not reach the threshold the balance will be added to the next month.</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
