@@ -11,7 +11,7 @@
     "theme": {
       "additionalSetColors": []
     },
-    "currentPage": "michaele_schwob_.html",
+    "currentPage": "michael_schwob_.html",
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "name": "ThirtyNine309",
@@ -5281,10 +5281,10 @@
         }
       ]
     },
-    "michaele_schwob_.html": {
+    "michael_schwob_.html": {
       "settings": {
-        "meta_descr": "michaele_schwob_ Tracking Account",
-        "title": "michaele_schwob_",
+        "meta_descr": "michael_schwob_ Tracking Account",
+        "title": "michael_schwob_",
         "order": 8
       },
       "components": [
@@ -5328,7 +5328,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "IG ACCOUNT: @michaele_schwob_",
+          "title": "IG ACCOUNT: @michael_schwob_",
           "text": "<p>Offer: Blackwolf<br>Personal Custom Link: https://re.tc/Blackwolf005</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
