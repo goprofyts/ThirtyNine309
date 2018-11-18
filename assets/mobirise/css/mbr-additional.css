@@ -13,10 +13,18 @@
 #header4-4u H1 {
   color: #e25041;
 }
-#header3-4t H3 {
+#content5-4y .mbr-header .mbr-header__text {
   text-align: center;
+  color: #fff;
 }
-#header3-4t P {
+#content5-4y .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4y .mbr-article {
+  color: #fff;
+}
+#content5-4y .mbr-article P {
   text-align: center;
 }
 #content5-4v .mbr-header .mbr-header__text {
@@ -31,5 +39,53 @@
   color: #fff;
 }
 #content4-4w P {
+  text-align: center;
+}
+#content5-4x .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4x .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4x .mbr-article {
+  color: #fff;
+}
+#content5-4x .mbr-article P {
+  text-align: center;
+  color: #000000;
+}
+#content5-4z .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4z .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4z .mbr-article {
+  color: #fff;
+}
+#content4-50 P {
+  color: #ffffff;
+  text-align: center;
+}
+#content4-50 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#content5-51 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-51 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-51 .mbr-article {
+  color: #fff;
+}
+#content5-51 .mbr-article P {
+  color: #000000;
   text-align: center;
 }
