@@ -11,7 +11,7 @@
     "theme": {
       "additionalSetColors": []
     },
-    "currentPage": "page20.html",
+    "currentPage": "karina_m00d.html",
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "name": "ThirtyNine309",
@@ -14113,9 +14113,9 @@
         }
       ]
     },
-    "page20.html": {
+    "karina_m00d.html": {
       "settings": {
-        "meta_descr": "lunavegasfitness Tracking Account",
+        "meta_descr": "karina_m00d Tracking Account",
         "title": "karina_m00d",
         "order": 20
       },
